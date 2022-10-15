@@ -1,5 +1,9 @@
 # Kickoff Meeting
-## Date: Oct 10
+# Group 25 - Sleep Deprivation
+
+## Date: Oct 10, Commuter Lounge @ Price Center, UCSD
+
+## Time: 6:00 - 6:30pm
 ## Attendance: 
 - Anish
 - Ben
