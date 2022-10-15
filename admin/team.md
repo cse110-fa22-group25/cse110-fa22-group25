@@ -1,12 +1,17 @@
 ###### PAGE OF TEAM 25
 
 ## Team Name: Sleep Deprivation
-## Team Color: Blue and Green
+
+## Team Color: Blue, Green, Purple, Orange
 ## Team Font: Comfortaa - Semi bold
 
+![branding1](./branding/branding_opt1.png)  
+![branding2](./branding/branding_opt2.png)
+
+
+> "Sleeping is the truest form of freedom" - Someone, probably
 
 ## Team Roster:
-
 
 ### Yiren Zhou
 I am a third year Math: CS major student in Sixth College, serving as a team lead. [My github page](https://xiaoxi-yiren.github.io/page_project/)
@@ -39,3 +44,33 @@ I'm a 4th year Computer Science student in Marshall College. [My GitHub Page](ht
 ### Rena Wu
 I am a fourth year student majoring in Computer Science in Sixth College. [My Github Page](https://renawuq.github.io/cse110first/)
 
+## Team Roles (Tentative)
+
+### Frontend
+
+- Siya Rajpal
+- Rena Wu
+- Anish Kulkarni
+
+### Backend
+- Sia Sheth
+- Ben Xia
+- Yong Liang
+- Janav Kati
+
+### UI Designers
+- Rena Wu
+
+### UX Designers
+- Xinyi Li
+- Ben Xia*
+
+### Testing/QA
+- Janav Kati
+- Ben Xia
+- Yiren Zhou
+- Yong Liang
+
+### Team Leads
+- Yiren Zhou
+- Karthik Vetrivelan

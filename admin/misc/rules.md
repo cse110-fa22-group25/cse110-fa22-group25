@@ -8,25 +8,25 @@
 
     Team member info: <br>
     NAME & EMAIL: <br>
-    Karthik Vetrivelan 
+    - Karthik Vetrivelan 
     kvetrivelan@ucsd.edu<br>
-    Anish Kulkarni 
+    - Anish Kulkarni 
     ajkulkar@ucsd.edu<br>
-    Benjamin Xia
+    - Benjamin Xia
     bbxia@ucsd.edu<br>
-    Janav Kati
+    - Janav Kati
     jkati@ucsd.edu<br>
-    Sia Sheth
+    - Sia Sheth
     snsheth@ucsd.edu<br>
-    Siya Rajpal
+    - Siya Rajpal
     sirajpal@ucsd.edu<br>
-    Yiren Zhou
+    - Yiren Zhou
     yiz112@ucsd.edu<br>
-    Yong Liang
+    - Yong Liang
     yoliang@ucsd.edu<br>
-    Xinyi Li
+    - Xinyi Li
     xil129@ucsd.edu<br>
-    Rena Wu
+    - Rena Wu
     ruw032@ucsd.edu<br>
 
 2) Primary Means of Communication and Expectations:<br>
@@ -54,4 +54,4 @@
    
     If a team member fails to live up to this agreement, the situation may be reported to the staff, but the team will still be responsible for submitting a completed assignment. Staff will be available to meet with teams to resolve issues.
 
-8) Signature         
+8) Signature: _______________________
