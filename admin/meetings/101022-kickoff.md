@@ -15,6 +15,7 @@
 - Yiren
 - Yong
 - Xinyi*
+- Rena
   
 ## Contents
 - Github link will be posted
