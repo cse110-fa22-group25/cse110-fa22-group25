@@ -5,8 +5,13 @@
 ## Team Color: Blue, Green, Purple, Orange
 ## Team Font: Comfortaa - Semi bold
 
-![branding1](./branding/branding_opt1.png)  
-![branding2](./branding/branding_opt2.png)
+<div align="center">
+<img src="./branding/branding_opt1.png" width=600>
+</div>
+
+<div align="center">
+<img src="./branding/branding_opt2.png" width=600>
+</div>
 
 
 > "Sleeping is the truest form of freedom" - Someone, probably
