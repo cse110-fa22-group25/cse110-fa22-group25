@@ -56,6 +56,7 @@ I am a fourth year student majoring in Computer Science in Sixth College. [My Gi
 - Siya Rajpal
 - Rena Wu
 - Anish Kulkarni
+- Xinyi Li
 
 ### Backend
 - Sia Sheth
