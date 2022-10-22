@@ -26,7 +26,8 @@
 2. Water Tracking app
    1. Causes you to keep track of another task instead of solving a problem
 3. Applicance warrenty tracker 
-4. COnfirmed idea- Appliance warrenty tracker
+4. **Confirmed idea- Appliance warrenty tracker**
+   1. Seems simplest to implement, and is practical for problems that are tedious when we do encounter them. 
 5. Daily standups will be on Monday, Wednesday and Friday
    1. will be on a slack channel
    2. Reply to bot thread for the day
