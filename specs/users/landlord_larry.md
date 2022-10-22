@@ -6,7 +6,7 @@
 
 Landlord Larry has been managing his parents' properties since he dropped out of high school. He goes through a lot of appliances due to his large number of tenants. 
 
-Since his tenants have a tendency to break anything he provides, he is constantly buting and RMA'ing appliances.
+Since his tenants have a tendency to break anything he provides, he is constantly buying and RMA'ing appliances.
 
 Larry doesn't really enjoy his job, and is constantly looking for ways to optimize and streamline his tasks so he can spend more time gaming in his bedroom.
 
@@ -25,3 +25,4 @@ Larry doesn't really enjoy his job, and is constantly looking for ways to optimi
 
 ## Needs
  - Larry needs an app that will allow him to quickly look up the warranty information for large quantities of appliances, and be able to view and manage the RMA histories of each product. 
+ - Specifically, he would prefer to be able to search up appliances based on which apartment the appliance is part of, and see an appliance's RMA history. 
