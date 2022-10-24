@@ -23,10 +23,12 @@
 ### App features (2 people)
 
 ### Risks, rabbit holes, no-gos (2 people)
+- Anish Kulkarni
 
 ### User personas, user stories (3 people)
 
 - Ben Xia
+- Anish Kulkarni
 ### Roadmap 
 Two leaders, 
 
@@ -37,6 +39,7 @@ Two leaders,
 
 - Yong Liang
 - Ben Xia
+- Anish Kulkarni
 
 ### System diagrams (3 people, discussed in the meeting)
 
