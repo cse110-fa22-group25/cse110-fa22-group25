@@ -16,19 +16,20 @@
 
 - Please look at the above Miro mind map for the details of the starting pitch
 - ***We need to finish the starting pitch this week (ddl Nov 1st), so please pick up the work you would like to do and fill in the following form.***
-## Tasks (**Please read through the mind map carefully before filling the table**)
-### Problem definition (2 people)
+## Tasks (Fill your name under each task)
+(**Please read through the mind map carefully before filling the form**)
+### Problem definition (2 people) 
 
-### App features
+### App features (2 people)
 
-### Risks, rabbit holes, no-gos
+### Risks, rabbit holes, no-gos (2 people)
 
 ### User personas, user stories (3 people)
 
 ### Roadmap 
 Two leaders, Yong Liang
 
-### Wireframes (4 people, discussed in the meeting)
+### Wireframes (>4 people, discussed in the meeting)
 (UI/UX designers and frontend engineers)
 
 ### System diagrams (3 people, discussed in the meeting)
