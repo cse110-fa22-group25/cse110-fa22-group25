@@ -26,13 +26,21 @@
 
 ### User personas, user stories (3 people)
 
+- Ben Xia
 ### Roadmap 
-Two leaders, Yong Liang
+Two leaders, 
+
+- Yong Liang
 
 ### Wireframes (>4 people, discussed in the meeting)
-(UI/UX designers and frontend engineers must work on this task) Yong Liang
+(UI/UX designers and frontend engineers must work on this task) 
+
+- Yong Liang
+- Ben Xia
 
 ### System diagrams (3 people, discussed in the meeting)
+
+- Ben Xia (Warning: I have no idea what I'm doing)
 
 - You can pick up the work you’d like to do before 12 pm Monday. After that, the leaders will assign work to those members who do not have tasks.**
 
