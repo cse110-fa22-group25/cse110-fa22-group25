@@ -21,10 +21,13 @@
 2. Discuss daily standup schedule
 
 ## Content
-1. To Do list app
-   1. How to implement backend 
-2. Water Tracking app
+1. ~~To Do list app~~
+   1. How to implement backend.
+   2. Requires notifications -> would require electron or the tab to be open 24/7
+   3. Why not just use google calendar for notifications? :()
+2. ~~Water Tracking app~~
    1. Causes you to keep track of another task instead of solving a problem
+   2. Can easily be abused by people who just mark that they're drinking 100 gallons a day if there is a leaderboard. 
 3. Applicance warrenty tracker 
 4. **Confirmed idea- Appliance warrenty tracker**
    1. Seems simplest to implement, and is practical for problems that are tedious when we do encounter them. 
