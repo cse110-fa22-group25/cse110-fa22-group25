@@ -30,7 +30,7 @@
 Two leaders, Yong Liang
 
 ### Wireframes (>4 people, discussed in the meeting)
-(UI/UX designers and frontend engineers)
+(UI/UX designers and frontend engineers must work on this task)
 
 ### System diagrams (3 people, discussed in the meeting)
 
