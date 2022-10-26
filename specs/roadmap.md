@@ -7,7 +7,8 @@
 4. System diagrams
 5. User Centered Design
    1. Personas, user stories, use cases
-6. Finalize requirements by Saturday. 
+6. Finalize pitch by Thurs/Fri
+7. Set up CI/CD Pipeline
 
 ### Week 6 - Prototyping
 1. Continue iterating over project requirements and system diagrams

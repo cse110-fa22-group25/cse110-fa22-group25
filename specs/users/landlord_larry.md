@@ -1,7 +1,7 @@
 ###### Landlord Larry  
 
 <div align="center">
-<img src="./imgs/landlord_larry.jpg" width=600>
+<img src="./imgs/landlord_larry.jpg" width=300>
 </div>  
 
 Landlord Larry has been managing his parents' properties since he dropped out of high school. He goes through a lot of appliances due to his large number of tenants. 
