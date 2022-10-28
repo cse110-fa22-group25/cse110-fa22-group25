@@ -63,6 +63,3 @@
 
     ## next meeting 
     - Saturday October 30th, 11:00 A.M.
-   
-
-
