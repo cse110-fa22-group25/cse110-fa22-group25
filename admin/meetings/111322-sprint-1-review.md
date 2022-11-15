@@ -35,7 +35,7 @@ Rena: tags
 
 Ben: unit test, hard to test button-click
 
-See videos and other reivew documents.
+See videos and other reivew documents. Link: https://www.awesomescreenshot.com/video/12459206?key=383fbf1b4ace39e8b502a05eda5f9e1f.
 
 ## Next Meeting
 
