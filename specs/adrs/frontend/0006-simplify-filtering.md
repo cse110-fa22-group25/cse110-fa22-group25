@@ -1,12 +1,19 @@
-###### Filtering Simplification
+# Filtering Simplification
 
-## Should we simplify filtering for easier implementation?
+## Context and Problem Statement
+
+Should we simplify filtering for easier implementation?
 
 Would categories and subcategories be too difficult to implement filtering?
 
-Would collapsingdifferent categories be too difficult to implement given the time?
+Would collapsing different categories be too difficult to implement given the time?
 
-## Outcome
+## Considered Options
+
+* Use categories and subcategories
+* Only allow major categories
+
+## Decision Outcome
 
 Simplify to only allow major categories. A landlord isn't going to be keeping track of their tenants' iphone warranties. 
 
