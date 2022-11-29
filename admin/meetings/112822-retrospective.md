@@ -2,7 +2,7 @@
 
 # Monday Sprint Review/Retrospective Meeting
 
-## Remote ****- Nov 13, 6:30pm - 7:10pm****
+## Remote ****- Nov 28, 6:30pm - 7:10pm****
 
 ## Attendance
 
@@ -27,16 +27,16 @@ None
 
 ### Problem from last time:
 1. Lack of communication between larger team and subteams. Better? Worse?
-- Slack channel useful for communication, more involved.
-- Agreed, clear on what to do
-- Effective communication collaboration
+   - Slack channel useful for communication, more involved.
+   - Agreed, clear on what to do
+   - Effective communication collaboration
 
 2. Equal contribution
-- This time plan out thoroughly, easy to figure out what need to be done
+   - This time plan out thoroughly, easy to figure out what need to be done
 
 3. Not aware on how’s things been going
-- Technical stuff are better because talked in group
-- Labs help for puppeteer, discussion on slack
+   - Technical stuff are better because talked in group
+   - Labs help for puppeteer, discussion on slack
 
 ### Specific situations(like, dislike, high points): 
 - General progress/results good: 
@@ -53,4 +53,4 @@ Problems to be solved: text overflow bug; css/style; E2E tests
 
 ## Next Meeting
 
-- TA meeting, 6 P.M. after class, Monday
+- Wednesday Nov 30, Meeting, 6:00 P.M.

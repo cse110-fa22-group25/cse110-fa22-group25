@@ -2,7 +2,7 @@
 
 # Wednesday Regular Meeting
 
-## Remote ****- Nov 13, 3:00pm - 3:30pm****
+## Remote ****- Nov 28, 6:00pm - 6:30pm****
 
 ## Attendance
 
@@ -52,4 +52,4 @@ None
 
 ## Next Meeting
 
-- Wednesday Nov 28, Meeting, 6:00 P.M.
+- Wednesday Nov 30, Meeting, 6:00 P.M.
